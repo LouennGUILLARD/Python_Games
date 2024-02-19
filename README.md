@@ -16,4 +16,4 @@ Les jeux peuvents être jouer en mode 2 joueurs, 1 joueur et un ordinateur ou 2 
 ## Score
 Le jeu possède un système de tableau des scores d'où l'on peut voir les différents records sur les différents jeux. Le fonctionnement des points attribuer a été choisie en fonction du nombre de coup fait sur chacun des jeux. 
 
-Je n'ai pas été seul à réaliser, vous pouvez trouver ici mon camarade avec lequel j'ai réaliser se project: <a scr="https://github.com/PolleEdouard">Baptiste Lafarge</a>  
+Je n'ai pas été seul à réaliser, vous pouvez trouver ici mon camarade avec lequel j'ai réaliser se project: (Baptiste Lafarge)[https://github.com/PolleEdouard] 
