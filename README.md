@@ -1,7 +1,7 @@
 # Python_Games
 Projet de première année, réalisation de divers jeu en python à jouer dans le terminal de commande (devinette, allumettes, morpion)
 
-## main_menu.pry
+## main_menu.py
 Ce fichier contient le main du programme qui fait tourner le reste des fichier .py du projet
 
 ## Jeux
